@@ -10,8 +10,7 @@ A classic Tic Tac Toe game built with C# Windows Forms where two players take tu
 The game detects wins, draws, and manages turns dynamically, providing a simple and interactive user experience.
 
 ---
-<img width="1071" height="701" alt="image" src="https://github.com/user-attachments/assets/1f6b50a7-beb7-41e3-9b54-c5ec355d7319" />
-<img width="1069" height="699" alt="image" src="https://github.com/user-attachments/assets/71e8f92e-8c33-4d06-8f06-ed9a27c6ba53" />
+<img width="530" height="350" alt="image" src="https://github.com/user-attachments/assets/1f6b50a7-beb7-41e3-9b54-c5ec355d7319" /><img width="530" height="350" alt="image" src="https://github.com/user-attachments/assets/71e8f92e-8c33-4d06-8f06-ed9a27c6ba53" />
 
 
 ---
